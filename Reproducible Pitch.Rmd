@@ -1,7 +1,7 @@
 ---
 title: "Analysis of the mtcars Dataset"
-author: "Amrit Juneja"
-date: "13.10.2019"
+author: "Snehal Muskawad"
+date: "23.11.2021"
 output:
   html_document:
     number_sections: yes
